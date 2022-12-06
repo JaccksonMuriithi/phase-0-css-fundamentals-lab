@@ -3,3 +3,41 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%;}
+nav {
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: aquamarine;
+  width: 30%;}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%;
+}
+p#featured-property { width: 800px;
+  align-items: center;
+}
+figcaption {
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%}
+p {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%
+}
+#details .horizontal
+{
+  float: right;
+  width: 300px;
+  padding: 10px;
+};
+
+}
